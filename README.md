@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# The Budget
->This is a mobile web application build with Ruby on Rails. Users can keep track of their expenses, and add them to their desired categories. 
+# hello-rails-back-end
+>This is the backend portion of the hello rails react project. 
 
 ## Built With
 
